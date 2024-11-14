@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1698758941 source:c:\users\student\desktop\lab3\main.cpp
+	"Casa.h"
+
+1698758328 c:\users\student\desktop\lab3\casa.h
+	<iostream>
+	<cstring>
+
+1698758893 source:c:\users\student\desktop\lab3\casa.cpp
+	"Casa.h"
+
+1698784125 source:c:\users\marius\desktop\lab3\casa.cpp
+	"Casa.h"
+
+1698783821 c:\users\marius\desktop\lab3\casa.h
+	<iostream>
+	<cstring>
+	<string.h>
+
+1698784053 source:c:\users\marius\desktop\lab3\main.cpp
+	"Casa.h"
+
+1698784125 source:d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab3\casa.cpp
+	"Casa.h"
+
+1698783821 d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab3\casa.h
+	<iostream>
+	<cstring>
+	<string.h>
+
+1698784053 source:d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab3\main.cpp
+	"Casa.h"
+

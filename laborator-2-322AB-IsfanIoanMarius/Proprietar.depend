@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1698151119 source:d:\importante\info\proiectare orientata pe obiecte\laboratoare\lab2\proprietar\cladire.cpp
+	"Cladire.hpp"
+
+1698149926 d:\importante\info\proiectare orientata pe obiecte\laboratoare\lab2\proprietar\cladire.hpp
+	<iostream>
+	<cstring>
+
+1698151239 source:d:\importante\info\proiectare orientata pe obiecte\laboratoare\lab2\proprietar\main.cpp
+	"Cladire.hpp"
+
+1698148017 source:d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab2\proprietar\cladire.cpp
+	"Cladire.hpp"
+
+1698146326 d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab2\proprietar\cladire.hpp
+	<iostream>
+	<cstring>
+
