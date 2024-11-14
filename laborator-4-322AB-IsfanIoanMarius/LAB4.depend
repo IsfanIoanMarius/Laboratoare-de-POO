@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1699363298 source:c:\users\student\desktop\lab4\main.cpp
+	"Fractie.h"
+
+1699363438 c:\users\student\desktop\lab4\fractie.h
+	<iostream>
+
+1699363217 source:c:\users\student\desktop\lab4\fractie.cpp
+	"Fractie.h"
+
+1703201897 source:d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab4\fractie.cpp
+	"Fractie.h"
+
+1703201895 d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab4\fractie.h
+	<iostream>
+
+1703201898 source:d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab4\main.cpp
+	"Fractie.h"
+

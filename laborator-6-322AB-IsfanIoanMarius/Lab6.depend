@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1700573565 source:c:\users\student\desktop\lab6\impozit.cpp
+	"Impozit.hpp"
+
+1700573557 c:\users\student\desktop\lab6\impozit.hpp
+	<iostream>
+
+1700573467 source:c:\users\student\desktop\lab6\locuinta.cpp
+	"Locuinta.hpp"
+
+1700573485 c:\users\student\desktop\lab6\locuinta.hpp
+	<iostream>
+	<string.h>
+
+1700574966 source:c:\users\student\desktop\lab6\main.cpp
+	"Oras.hpp"
+
+1700575017 c:\users\student\desktop\lab6\oras.hpp
+	"Locuitor.hpp"
+
+1700575059 c:\users\student\desktop\lab6\locuitor.hpp
+	"Impozit.hpp"
+	"Locuinta.hpp"
+
+1700575026 source:c:\users\student\desktop\lab6\oras.cpp
+	"Oras.hpp"
+
+1700574975 source:c:\users\student\desktop\lab6\locuitor.cpp
+	"Locuitor.hpp"
+
+1703384973 source:d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab6\impozit.cpp
+	"Impozit.hpp"
+
+1703201989 d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab6\impozit.hpp
+	<iostream>
+
+1703201986 source:d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab6\main.cpp
+	"Oras.hpp"
+
+1703201986 d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab6\oras.hpp
+	"Locuitor.hpp"
+
+1703384746 d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab6\locuitor.hpp
+	"Impozit.hpp"
+	"Locuinta.hpp"
+
+1703201995 d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab6\locuinta.hpp
+	<iostream>
+	<string.h>
+
+1703201987 source:d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab6\oras.cpp
+	"Oras.hpp"
+
+1703384849 source:d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab6\locuinta.cpp
+	"Locuinta.hpp"
+
+1703384964 source:d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab6\locuitor.cpp
+	"Locuitor.hpp"
+

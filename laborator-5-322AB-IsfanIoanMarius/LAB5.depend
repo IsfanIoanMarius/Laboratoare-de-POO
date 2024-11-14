@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1705591599 source:c:\users\marius\desktop\lab5\oras.cpp
+	"Oras.hpp"
+
+1705591236 c:\users\marius\desktop\lab5\oras.hpp
+	<iostream>
+	<cstring>
+

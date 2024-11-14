@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1701179381 source:c:\users\student\desktop\lab7\fractie.cpp
+	"Fractie.hpp"
+
+1701179239 c:\users\student\desktop\lab7\fractie.hpp
+	<iostream>
+
+1701179348 source:c:\users\student\desktop\lab7\main.cpp
+	"Fractie.hpp"
+	"A.hpp"
+	"Nr_complex.hpp"
+
+1701179348 c:\users\student\desktop\lab7\a.hpp
+	<iostream>
+
+1701179239 c:\users\student\desktop\lab7\nr_complex.hpp
+	<iostream>
+	<cmath>
+
+1701179239 source:c:\users\student\desktop\lab7\nr_complex.cpp
+	"Nr_complex.hpp"
+
+1701178800 source:c:\users\student\desktop\lab7\vector.cpp
+	"Vector.hpp"
+
+1701178696 c:\users\student\desktop\lab7\vector.hpp
+	<iostream>
+
+1701179348 source:c:\users\student\desktop\lab7\a.cpp
+	"A.hpp"
+
+1703468553 source:d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab7\a.cpp
+	"A.hpp"
+
+1703202237 d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab7\a.hpp
+	<iostream>
+
+1703470213 source:d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab7\fractie.cpp
+	"Fractie.hpp"
+
+1703470178 d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab7\fractie.hpp
+	<iostream>
+
+1703470366 source:d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab7\nr_complex.cpp
+	"Nr_complex.hpp"
+
+1703470367 d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab7\nr_complex.hpp
+	<iostream>
+	<cmath>
+
+1703470505 source:d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab7\vector.cpp
+	"Vector.hpp"
+	"Fractie.hpp"
+	"Nr_complex.hpp"
+
+1703467681 d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab7\vector.hpp
+	<iostream>
+
+1703470487 source:d:\importante\info\limbaje prog\c++\proiectare orientata pe obiecte\laboratoare\lab7\main.cpp
+	"Fractie.hpp"
+	"Vector.hpp"
+	"Nr_complex.hpp"
+
